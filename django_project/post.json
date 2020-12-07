@@ -1,0 +1,40 @@
+[
+
+{
+    "title": "Introduction to Vim",
+    "content": "Vim stands for Vi-improved. Its a popular text editor shipping by default on most linux machines. ",
+    "user_id": 1
+
+},
+{
+    "title":"Best Laptop for Coding.",
+    "content":"So you've started your journey into software development and are wondering..",
+    "user_id":3
+},
+{
+    "title":"Python Decorators",
+    "content":"In this tutorial, youll learn what python decorators are and how you..",
+    "user_id":2
+},
+{
+    "title":"Version Control",
+    "content":"Writing code and storing the source code in a local machine is not always the best idea..",
+    "user_id":2
+},
+{
+    "title":"Best Youtube Channel to Learn Python",
+    "content":"In this blog, i will list channels that are like a one stop shop for python tutorials..",
+    "user_id":1
+},
+{
+    "title":"Algorithims and Data Structures",
+    "content":"Yes you heard it, we will be learning AL&DS. Brace yourself and ..",
+    "user_id": 5
+},
+{
+    "title":"REST API",
+    "content":"Application programming interfaces are a skill set that every developer need to posses if they want to..",
+    "user_id":6
+}
+
+]
